@@ -1,65 +1,72 @@
-# 👋 Hi, I'm Rushikesh Jayant Gaikwad
-
-### DevOps Engineer | Cloud Engineer (AWS)
-
-📍 India  
-📧 gaikwadrushi2005@gmail.com  
-🔗 GitHub: https://github.com/Rushi83081  
+<!-- 🌟 Header -->
+<h1 align="center">Hi there 👋, I'm <Your Name>!</h1>
+<p align="center">A passionate Developer & Cloud Enthusiast</p>
 
 ---
 
-## 🚀 About Me
-I am a DevOps and Cloud Engineering fresher with hands-on experience in AWS, Linux, CI/CD pipelines, and containerization. I enjoy working on cloud infrastructure, automation, and deployment pipelines.
+<!-- 🔗 Social Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/yourusername"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"></a>
+  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"></a>
+</p>
 
 ---
 
-## 🛠 Technical Skills
+## 💻 About Me
 
-- **Cloud:** AWS (EC2, S3, IAM, VPC, Load Balancer, CloudWatch)
-- **DevOps Tools:** Docker, Jenkins, Terraform, Kubernetes
-- **Monitoring:** Datadog
-- **Version Control:** Git & GitHub
-- **Operating System:** Linux
-
----
-
-## 📂 Projects  
-*Projects listed below are small-scale and practice-based, created for hands-on learning.*
-
-### 🔹 AWS 3-Tier Architecture
-- Designed and deployed frontend, backend, and database layers using AWS EC2
-- Implemented IAM roles, security groups, and load balancing
-
-### 🔹 Amazon & Netflix Clone Deployment
-- Deployed static web applications on AWS EC2 using Nginx
-- Managed source code using GitHub
-
-### 🔹 Super Mario Game Deployment
-- Containerized and deployed a web-based game using Docker
+- 🔭 I’m currently working on **DevOps, Cloud & Fullstack Projects**
+- 🌱 I’m learning **AWS, Kubernetes & Terraform**
+- 💬 Ask me about **Docker, CI/CD, Linux & Networking**
+- 👯 I’m looking to collaborate on real-world DevOps projects
 
 ---
 
-## 🎓 Education
-**Bachelor of Computer Applications (BCA)**  
-Bharti Vidyapeeth, Sangli | 2025
+## 🛠️ Tech & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-F79900?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-624FBE?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-FF0000?style=flat&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 📚 Training
-**DevOps Engineer Training (Ongoing)**  
-CloudBlitz, Kothrud, Pune
+## 📂 Featured Projects
+
+### 🚀 Project One — *Netflix Clone*
+➡️ A streaming front-end using React + TMDB API  
+🧠 Features: Search, filter, responsive UI
+
+### ☁️ Project Two — *3-Tier Student App*
+➡️ Angular + Spring Boot + MySQL + AWS deployment  
+🧠 Features: Scalable backend, secure API, HA setup
+
+### 📦 Project Three — *Amazon Clone*
+➡️ Full marketplace UI with cart & auth features
+
+*(Add your own project details with links!)*
 
 ---
 
 ## 📊 GitHub Stats
-![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushi83081&show_icons=true)
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=html&theme=radical"/>
+</p>
 
 ---
 
-## 🤝 Connect with Me
-- GitHub: https://github.com/Rushi83081
-- Email: gaikwadrushi2005@gmail.com
+## 📫 Let’s Connect!
 
----
+Feel free to reach out — *I love collaborating and learning together!*
 
-**— End of Profile —**
+✨ **Email:** your-email@example.com  
+✨ **LinkedIn:** linkedin.com/in/your-linkedin
+
