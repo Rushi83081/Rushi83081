@@ -79,7 +79,7 @@
       </a>
     </td>
     <td width="20"></td>
-    <td align="">
+    <td align="center">
       <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
         <img src="https://img.shields.io/badge/Naukri-black?style=flat-square&logo=googlechrome&logoColor=0057FF" />
       </a>
