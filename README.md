@@ -61,17 +61,16 @@
 > with strong expertise in **AWS, Linux, Automation, and Security**.
 
 ---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/rushikesh-gaikwad-1ba3743a5" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" />
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0A66C2" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/naukri.svg"
-         width="42"
-         style="filter: invert(36%) sepia(99%) saturate(749%) hue-rotate(199deg);" />
+    <img src="https://img.shields.io/badge/-Naukri-black?style=flat-square&logo=googlechrome&logoColor=0057FF" />
   </a>
 </p>
 
