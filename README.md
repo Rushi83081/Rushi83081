@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="420" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Rushikesh Gaikwad</h1>
 
