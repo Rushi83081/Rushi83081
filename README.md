@@ -67,6 +67,10 @@
 > with strong expertise in **AWS, Linux, Automation, and Security**.
 
 ---
+<p align="center">
+  <b>Connect with me</b>
+</p>
+
 <table align="center">
   <tr>
     <td align="center">
