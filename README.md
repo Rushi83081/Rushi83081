@@ -69,22 +69,21 @@
 > with strong expertise in **AWS, Linux, Automation, and Security**.
 
 ---
+## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/rushikesh-gaikwad-1ba3743a5" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0A66C2" />
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-        <img src="https://img.shields.io/badge/Naukri-black?style=flat-square&logo=googlechrome&logoColor=0057FF" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rushi83081&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rushi83081&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
