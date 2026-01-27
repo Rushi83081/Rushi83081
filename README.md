@@ -19,69 +19,58 @@
 
 ## 🛠️ Tools & Technologies
 
-<p align="center">
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="420" />
-</p>
-### ☁️ AWS
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="120"/>
-</p>
-
 <table align="center">
   <tr>
-    <td align="center" style="border:1px solid #444;padding:12px">
-      <img src="https://img.icons8.com/color/96/amazon-ec2.png"/><br/>
-      <b>EC2</b>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://img.icons8.com/color/96/amazon-ec2.png"/><br/><b>EC2</b>
     </td>
-    <td align="center" style="border:1px solid #444;padding:12px">
-      <img src="https://img.icons8.com/color/96/amazon-s3.png"/><br/>
-      <b>S3</b>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://img.icons8.com/color/96/amazon-s3.png"/><br/><b>S3</b>
     </td>
-    <td align="center" style="border:1px solid #444;padding:12px">
-      <img src="https://img.icons8.com/color/96/amazon-iam.png"/><br/>
-      <b>IAM</b>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://img.icons8.com/color/96/amazon-iam.png"/><br/><b>IAM</b>
     </td>
-    <td align="center" style="border:1px solid #444;padding:12px">
-      <img src="https://img.icons8.com/color/96/amazon-vpc.png"/><br/>
-      <b>VPC</b>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://img.icons8.com/color/96/amazon-vpc.png"/><br/><b>VPC</b>
     </td>
-    <td align="center" style="border:1px solid #444;padding:12px">
-      <img src="https://img.icons8.com/color/96/amazon-lambda.png"/><br/>
-      <b>Lambda</b>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://img.icons8.com/color/96/amazon-lambda.png"/><br/><b>Lambda</b>
     </td>
   </tr>
-</table>
 
----
-
-### ⚙️ DevOps & System Tools
-
-<table align="center">
   <tr>
-    <td align="center" style="border:1px solid #444;padding:12px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/><br/>
-      <b>Linux</b>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65"/><br/><b>Docker</b>
     </td>
-    <td align="center" style="border:1px solid #444;padding:12px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br/>
-      <b>Git</b>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="65"/><br/><b>Kubernetes</b>
     </td>
-    <td align="center" style="border:1px solid #444;padding:12px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/><br/>
-      <b>GitHub</b>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="65"/><br/><b>Terraform</b>
     </td>
-    <td align="center" style="border:1px solid #444;padding:12px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/><br/>
-      <b>Docker</b>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="65"/><br/><b>Jenkins</b>
     </td>
-    <td align="center" style="border:1px solid #444;padding:12px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55"/><br/>
-      <b>Jenkins</b>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65"/><br/><b>Linux</b>
     </td>
-    <td align="center" style="border:1px solid #444;padding:12px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55"/><br/>
-      <b>Shell</b>
+  </tr>
+
+  <tr>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="65"/><br/><b>Grafana</b>
+    </td>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-datadog-monitoring-and-security-platform-for-cloud-applications-logo-color-tal-revivo.png"/><br/><b>Datadog</b>
+    </td>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65"/><br/><b>Git</b>
+    </td>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65"/><br/><b>GitHub</b>
+    </td>
+    <td align="center" style="border:1px solid #444;padding:14px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65"/><br/><b>Shell</b>
     </td>
   </tr>
 </table>
