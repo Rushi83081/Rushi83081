@@ -20,6 +20,7 @@
 ## 🛠️ Tools & Technologies
 
 <table align="center"> <tr> <td align="center" width="120"> <img src="https://img.icons8.com/color/64/amazon-web-services.png"/><br/> <b>AWS</b> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64"/><br/> <b>Docker</b> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="64"/><br/> <b>Kubernetes</b> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="64"/><br/> <b>Terraform</b> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="64"/><br/> <b>Jenkins</b> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64"/><br/> <b>Linux</b> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="64"/><br/> <b>Grafana</b> </td> <td align="center" width="120"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="64"/><br/> <b>Datadog</b> </td> </tr> </table>
+
 ---
 
 ## 🚀 Hands-on Practice & Projects
