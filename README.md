@@ -7,19 +7,6 @@
 
 ---
 
-<!-- SOCIAL BUTTONS -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/rushikesh-gaikwad-1ba3743a5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rushikesh%20Gaikwad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-    <img src="https://img.shields.io/badge/Naukri-Job%20Profile-0057FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - ☁️ AWS Cloud & DevOps Learner  
@@ -75,10 +62,17 @@
 
 ---
 
-## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rushikesh-gaikwad-1ba3743a5" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+  </a>
 
-- 💼 LinkedIn: [Rushikesh Gaikwad](https://www.linkedin.com/in/rushikesh-gaikwad-1ba3743a5)
-- 🧾 Naukri Profile: [View Here](https://www.naukri.com/mnjuser/profile?id=&altresid)
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/naukri.png" width="45" height="45"/>
+  </a>
+</p>
 
 ---
 
