@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Gaikwad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer;DevOps+Enthusiast;Linux+Administrator;Automation+%26+Cloud+Security;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;AWS+Cloud+Engineer;Linux+Administrator;Automation;Always+Learning+New+Tech" />
 </p>
 
 ---
