@@ -71,15 +71,15 @@
   <b>Connect with me</b>
 </p>
 
-<table align="center">
+<table align="">
   <tr>
-    <td align="center">
+    <td align="">
       <a href="https://www.linkedin.com/in/rushikesh-gaikwad-1ba3743a5" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0A66C2" />
       </a>
     </td>
     <td width="20"></td>
-    <td align="center">
+    <td align="">
       <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
         <img src="https://img.shields.io/badge/Naukri-black?style=flat-square&logo=googlechrome&logoColor=0057FF" />
       </a>
