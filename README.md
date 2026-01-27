@@ -1,4 +1,5 @@
-
+🖥️ Operating System
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/> </p> <p align="center"> Linux Administration </p
 <h1 align="center">Hi 👋, I'm Rushikesh Gaikwad</h1>
 
 <p align="center">
