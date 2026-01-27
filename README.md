@@ -1,76 +1,19 @@
+
+<h1 align="center">Hi 👋, I'm Rushikesh Gaikwad</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;AWS+Cloud+Engineer;Linux+Administrator;Automation;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- ☁️ AWS Cloud & DevOps Learner  
-- 🐧 Strong in Linux Administration  
-- 🔐 IAM, Security, Networking fundamentals  
-- ⚙️ Hands-on with EC2, S3, VPC, IAM, Lambda  
-- 📈 Passionate about automation & cloud scalability  
-
----
-
-## 🛠️ Skills & Technologies
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)
-![IAM](https://img.shields.io/badge/IAM-Security-blue?style=for-the-badge)
-![EC2](https://img.shields.io/badge/EC2-Compute-orange?style=for-the-badge)
-![S3](https://img.shields.io/badge/S3-Storage-red?style=for-the-badge)
-![Lambda](https://img.shields.io/badge/Lambda-Serverless-yellow?style=for-the-badge)
-
-### 🐧 OS & Tools
-![Linux](https://img.shields.io/badge/Linux-Admin-black?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github)
-
----
-
-## 🚀 Projects & Practice
-
-- 🔐 AWS IAM – Users, Groups, Roles & Policies  
-- ⚙️ EC2 Start/Stop using AWS Lambda  
-- 🌐 VPC, Subnets, NAT, Route Tables  
-- 🪣 S3 Lifecycle & Storage Classes  
-- 📊 Load Balancer & Auto Scaling basics  
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rushi83081&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Rushi83081&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🎯 Career Goal
-
-> To become a **skilled Cloud / DevOps Engineer**  
-> with strong expertise in **AWS, Linux, Automation, and Security**.
-
----
-<p align="">
   <b>Connect with me</b>
 </p>
 
-<table align="">
+<table align="center">
   <tr>
-    <td align="">
+    <td align="center">
       <a href="https://www.linkedin.com/in/rushikesh-gaikwad-1ba3743a5" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0A66C2" />
       </a>
@@ -84,7 +27,92 @@
   </tr>
 </table>
 
+---
+
+## 👨‍💻 About Me
+
+- ☁️ Aspiring **DevOps & AWS Cloud Engineer**
+- 🐧 Strong foundation in **Linux Administration**
+- 🔐 Knowledge of **IAM, Security, Networking**
+- ⚙️ Hands-on with AWS core services
+- 📈 Passionate about automation & scalable systems
 
 ---
 
-⭐ *If you like my profile, feel free to connect or collaborate!*  
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="420" />
+</p>
+
+### ☁️ Cloud (AWS)
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="90"/>
+</p>
+
+<p align="center">
+  EC2 &nbsp;&nbsp; S3 &nbsp;&nbsp; IAM &nbsp;&nbsp; VPC &nbsp;&nbsp; Lambda
+</p>
+
+---
+
+### ⚙️ DevOps Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+</p>
+
+<p align="center">
+  Linux &nbsp;&nbsp; Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; Docker
+</p>
+
+---
+
+### 🔧 CI/CD & Automation
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+</p>
+
+<p align="center">
+  Jenkins &nbsp;&nbsp; Shell Scripting
+</p>
+
+---
+
+## 🚀 Hands-on Practice & Projects
+
+- 🔐 AWS IAM – Users, Groups, Roles, Policies
+- ⚙️ EC2 Start/Stop using AWS Lambda
+- 🌐 VPC, Subnets, NAT, Route Tables
+- 🪣 S3 Storage Classes & Lifecycle Policies
+- 📊 Load Balancer & Auto Scaling (Basics)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushi83081&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushi83081&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Career Objective
+
+> To build a strong career as a **DevOps / Cloud Engineer**  
+> with expertise in **AWS, Linux, Automation, and CI/CD pipelines**.
+
+---
+
+⭐ *Thank you for visiting my GitHub profile!*  
+📩 *Feel free to connect with me on LinkedIn or Naukri.*
