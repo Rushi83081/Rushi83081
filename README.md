@@ -46,11 +46,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushi83081E&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushi83081&theme=tokyonight" />
 </p>
 
 ---
@@ -61,16 +61,17 @@
 > with strong expertise in **AWS, Linux, Automation, and Security**.
 
 ---
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rushikesh-gaikwad-1ba3743a5" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/naukri.png" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/naukri.svg"
+         width="42"
+         style="filter: invert(36%) sepia(99%) saturate(749%) hue-rotate(199deg);" />
   </a>
 </p>
 
