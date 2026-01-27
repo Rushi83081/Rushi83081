@@ -45,12 +45,20 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushi83081E&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rushi83081&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushi83081&theme=tokyonight" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rushi83081&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
