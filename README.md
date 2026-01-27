@@ -74,24 +74,6 @@
 
 ---
 
-## 📂 Featured Work
-
-### 🔹 AWS Lambda Automation
-- EC2 start/stop using Lambda
-- IAM role-based permissions
-- Python (boto3)
-
-### 🔹 Linux Practice Repository
-- Real command usage
-- Interview-ready explanations
-
-### 🔹 AWS IAM Documentation
-- Users, Groups, Roles
-- Managed vs Inline Policies
-- Permission Boundaries
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -116,7 +98,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="www.linkedin.com/in/rushikesh-gaikwad-1ba3743a5&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </p>
 
 ---
